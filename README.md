@@ -2,7 +2,7 @@
 <h3>I'm a student pursuing a Bachelor's Degree in Electronics and Telecommunication Engineering from the Pune Institute of Computer Technology</h3>
 <hr>
 - 🌱 Currently, I'm learning everything 🤣 <br />
-- 🥅 2022 Goals: Secret <br />
+- 🥅 2022 Goals: Secret 🤫 <br />
 - ⚡ Interests: Creative writing, photography, travelling and many more! 
 <br/>
 <h3>Languages and Tools:</h3>
