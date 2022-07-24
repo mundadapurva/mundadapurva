@@ -1,9 +1,12 @@
 # Hello there, I'm Purva Mundada 🙋🏻‍♀️
 <h3>I'm a student pursuing a Bachelor's Degree in Electronics and Telecommunication Engineering from the Pune Institute of Computer Technology</h3>
+<br />
 - 🌱 Currently, I'm learning everything 🤣
 - 🥅 2022 Goals: Secret 🤫
 - ⚡ Interests: Creative writing, photography, travelling and many more!
-### Languages and Tools:
+
+##Languages and Tools:
+
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="cplusplus" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"style="padding-right:10px;" />
 <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="padding-right:10px;" />
