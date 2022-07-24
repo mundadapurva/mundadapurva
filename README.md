@@ -6,7 +6,7 @@
 - ⚡ Interests: Creative writing, photography, travelling and many more! 
 <br/>
 <h3>Languages and Tools:</h3>
-<br/>
+
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="cplusplus" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"style="padding-right:10px;" />
 <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="padding-right:10px;" />
