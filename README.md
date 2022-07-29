@@ -3,7 +3,8 @@
 <hr>
 - 🌱 Currently, I'm learning everything 🤣 <br />
 - 🥅 2022 Goals: Secret 🤫 <br />
-- ⚡ Interests: Creative writing, photography, travelling and many more! 
+- ⚡ Interests: Creative writing, photography, travelling and many more! <br />
+- 📫 How to reach me: https://www.linkedin.com/in/purva-mundada-94209b218
 <br/>
 <h3>Languages and Tools:</h3>
 
