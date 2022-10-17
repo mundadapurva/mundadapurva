@@ -5,7 +5,9 @@
 - 🥅 2022 Goals: Secret 🤫 <br />
 - ⚡ Interests: Creative writing, photography, travelling and many more! <br />
 - 📫 How to reach me: https://www.linkedin.com/in/purva-mundada-94209b218
-<br/>
+<hr>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mundadapurva" alt="mundadapurva" /></a> </p>
+<hr>
 <h3>Languages and Tools:</h3>
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
@@ -19,6 +21,9 @@
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
 <br />
+<br />
+<br />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mundadapurva&show_icons=true&theme=dark&locale=en&layout=compact" alt="mundadapurva" /></p>
 <br />
 <details>
   <summary>:zap: GitHub Stats</summary>
