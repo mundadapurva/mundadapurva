@@ -1,6 +1,5 @@
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mundadapurva&label=Profile%20views&color=ff69b4&style=flat-square" alt="mundadapurva" /> </p>
 # Hello there, I'm Purva Mundada 🙋🏻‍♀️
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mundadapurva&label=Profile%20views&color=ff69b4&style=flat-square" alt="mundadapurva" /> </p> 
 <h3>I'm a student pursuing a Bachelor's Degree in Electronics and Telecommunication Engineering from the Pune Institute of Computer Technology</h3>
 <hr>
 - 🌱 Currently, I'm learning everything 🤣 <br />
