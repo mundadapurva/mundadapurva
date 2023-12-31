@@ -3,8 +3,8 @@
 <h3>I'm a student pursuing a Bachelor's Degree in Electronics and Telecommunication Engineering from the Pune Institute of Computer Technology</h3>
 <hr>
 - 🌱 Currently, I'm learning everything 🤣 <br />
-- 🥅 2023 Goals: Secret 🤫 <br />
-- ⚡ Interests: Creative writing, photography, travelling and many more! <br />
+- 🥅 2024 Goals: Secret 🤫 <br />
+- ⚡ Interests: Creative writing, photography, traveling, and more! <br />
 - 📫 How to reach me: https://www.linkedin.com/in/purva-mundada-94209b218
 <hr>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mundadapurva" alt="mundadapurva" /></a> </p>
